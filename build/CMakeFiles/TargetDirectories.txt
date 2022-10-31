@@ -1,0 +1,9 @@
+C:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build/CMakeFiles/Experimental.dir
+C:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build/CMakeFiles/Nightly.dir
+C:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build/CMakeFiles/Continuous.dir
+C:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build/CMakeFiles/test_tentative_deletelater.dir
+C:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build/CMakeFiles/PACKAGE.dir
+C:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build/CMakeFiles/ZERO_CHECK.dir

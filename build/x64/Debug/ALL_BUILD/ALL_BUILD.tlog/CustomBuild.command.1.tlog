@@ -1,0 +1,10 @@
+^C:\USERS\HALOR\PROGRAMMING\CLONED PROJECTS\COP3530-CATCH2-DEMO\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo" "-BC:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build" --check-stamp-file "C:/Users/halor/Programming/Cloned Projects/cop3530-catch2-demo/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

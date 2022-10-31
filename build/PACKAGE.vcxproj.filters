@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\halor\Programming\Cloned Projects\cop3530-catch2-demo\build\CMakeFiles\f7e9ccc2489bfe04b8b956208fadd494\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EF4E5C21-6144-34A5-BCA7-30A1D7EDEFBE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
